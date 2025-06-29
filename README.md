@@ -1,7 +1,7 @@
 # 📊 Customer Segmentation using Unsupervised Learning
 This project focuses on segmenting customers based on their purchasing behavior using clustering techniques. The goal is to identify distinct groups of customers to help businesses tailor marketing strategies, product recommendations, and improve customer engagement.
 
-# 🔍 Problem Statement
+# 🔍 Business Requirement
 Understanding customer groups is crucial for any business aiming to personalize services and improve satisfaction. Instead of manually categorizing, this project uses machine learning clustering algorithms to automate the segmentation process.
 
 # 📁 Dataset
